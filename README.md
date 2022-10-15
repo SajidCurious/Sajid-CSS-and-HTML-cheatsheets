@@ -1,3 +1,2 @@
-# 1. CSS flexbox direction cheatsheet
+![cheatsheets profile](https://user-images.githubusercontent.com/109668487/195981405-f43a9489-f108-44a8-9641-f472b57564bb.png)
 
-![flex box direction property](https://user-images.githubusercontent.com/109668487/194846764-aa8970ce-b804-437a-a2fa-90e002e91f7d.png)
